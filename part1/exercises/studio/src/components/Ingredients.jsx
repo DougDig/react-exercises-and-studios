@@ -3,7 +3,7 @@ import styles from './Ingredients.module.css';
 
 
 export default function RecipeIngredients (){
-    let ingredients = ['cats','bats','hats','mats','drats']
+    let ingredients = ['Bun','Patty','Vegetables','Condiments','Love']
     return (
         <div>
    <h3>Recipe Ingredients</h3>
