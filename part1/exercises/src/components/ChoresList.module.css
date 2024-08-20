@@ -1,7 +1,11 @@
 .choresText {
-   color: black;
+   color: orange;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: 25px;
 }
 
 .choresHeading {
-   color: black;
+   color: orangered;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: 40px;
 }
