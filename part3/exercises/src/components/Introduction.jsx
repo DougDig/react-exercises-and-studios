@@ -1,11 +1,11 @@
 export default function HobbyIntroduction () {
    return(
       <div>
-         <h2>3 Fun Facts About Needlepoint</h2>
+         <h2>3 Fun Facts About Getting Slobby</h2>
          <ol>
-            <li>Needlepoint uses a specialized canvas as it's base.</li>
-            <li>The most basic stitch is called a tent stitch.</li>
-            <li>Needlepoint uses a lot of different kinds of fibers.</li>
+            <li>It works best if your knees are knobby</li>
+            <li>It was invented by a British police officer aka a Bobby</li>
+            <li>Even celebrities do it like the guy who voiced the Harry Potter Character Dobby!</li>
          </ol>
       </div>
    );

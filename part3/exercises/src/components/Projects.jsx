@@ -11,7 +11,7 @@ export default function MyProjects() {
    }
    else
    {
-      setIndex(0);
+      setIndex(0); 
    }
   }
 
